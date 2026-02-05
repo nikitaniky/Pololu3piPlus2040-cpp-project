@@ -88,4 +88,7 @@ No warranty is provided.
 - PID constants (`Kp`, `Kd`) and speed parameters are tuned for aggressive behavior and may require adjustment depending on surface and battery condition.
 - Mode 2 is intentionally left unimplemented.
 - The code assumes a standard 5-sensor line configuration.
+
+## Acknowledgment
+- Project was created by @nikitaniky, @UL-J, @OJ-A, @ElJones44
 - Based on adamgreen's LineFollowerSimple.
