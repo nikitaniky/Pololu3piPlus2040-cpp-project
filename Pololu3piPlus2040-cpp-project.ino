@@ -186,7 +186,7 @@ void loop() {
           motors.setSpeeds(0, 0);
           for (uint8_t i = 0; i < 6; i++) { leds.set(i, RGB(0, 0, 0)); }
           leds.show();
-          break;
+          for(;;);
         }
       }
 
