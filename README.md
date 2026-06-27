@@ -77,12 +77,6 @@ The primary focus is a high-speed PID-based line follower, with additional exper
 
 These must be installed via the Arduino Library Manager or from Pololu’s official repositories.
 
-## License
-
-This project is released for **free use**.  
-You are allowed to use, modify, and redistribute the code without restriction.  
-No warranty is provided.
-
 ## Notes
 
 - PID constants (`Kp`, `Kd`) and speed parameters are tuned for aggressive behavior and may require adjustment depending on surface and battery condition.
